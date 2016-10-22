@@ -1,3 +1,3 @@
 # festival-openstack-storage
 
-cookbook for mounting persistent storage in OpenStack on JOSE
+a chef cookbook for mounting persistent storage in OpenStack on JOSE
